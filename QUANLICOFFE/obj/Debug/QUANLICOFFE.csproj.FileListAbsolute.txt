@@ -1,0 +1,28 @@
+E:\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\bin\Debug\QUANLICOFFE.exe.config
+E:\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\bin\Debug\QUANLICOFFE.exe
+E:\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\bin\Debug\QUANLICOFFE.pdb
+E:\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\obj\Debug\QUANLICOFFE.csprojAssemblyReference.cache
+E:\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\obj\Debug\QUANLICOFFE.Properties.Resources.resources
+E:\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\obj\Debug\QUANLICOFFE.csproj.GenerateResource.cache
+E:\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\obj\Debug\QUANLICOFFE.csproj.CoreCompileInputs.cache
+E:\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\obj\Debug\QUANLICOFFE.exe
+E:\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\obj\Debug\QUANLICOFFE.pdb
+E:\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\obj\Debug\QUANLICOFFE.Main.resources
+E:\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\obj\Debug\QUANLICOFFE.fLogin.resources
+E:\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\obj\Debug\QUANLICOFFE.FrmAccount.resources
+E:\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\obj\Debug\QUANLICOFFE.frmadmin.resources
+E:\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\obj\Debug\QUANLICOFFE.Sigup.resources
+C:\Users\Dang Phuc Khang\Documents\Zalo Received Files\2033216533_HOMAITHANHSANG_DO_AN\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\bin\Debug\QUANLICOFFE.exe.config
+C:\Users\Dang Phuc Khang\Documents\Zalo Received Files\2033216533_HOMAITHANHSANG_DO_AN\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\bin\Debug\QUANLICOFFE.exe
+C:\Users\Dang Phuc Khang\Documents\Zalo Received Files\2033216533_HOMAITHANHSANG_DO_AN\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\bin\Debug\QUANLICOFFE.pdb
+C:\Users\Dang Phuc Khang\Documents\Zalo Received Files\2033216533_HOMAITHANHSANG_DO_AN\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\obj\Debug\QUANLICOFFE.csproj.AssemblyReference.cache
+C:\Users\Dang Phuc Khang\Documents\Zalo Received Files\2033216533_HOMAITHANHSANG_DO_AN\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\obj\Debug\QUANLICOFFE.FrmAccount.resources
+C:\Users\Dang Phuc Khang\Documents\Zalo Received Files\2033216533_HOMAITHANHSANG_DO_AN\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\obj\Debug\QUANLICOFFE.frmadmin.resources
+C:\Users\Dang Phuc Khang\Documents\Zalo Received Files\2033216533_HOMAITHANHSANG_DO_AN\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\obj\Debug\QUANLICOFFE.fLogin.resources
+C:\Users\Dang Phuc Khang\Documents\Zalo Received Files\2033216533_HOMAITHANHSANG_DO_AN\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\obj\Debug\QUANLICOFFE.Main.resources
+C:\Users\Dang Phuc Khang\Documents\Zalo Received Files\2033216533_HOMAITHANHSANG_DO_AN\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\obj\Debug\QUANLICOFFE.Properties.Resources.resources
+C:\Users\Dang Phuc Khang\Documents\Zalo Received Files\2033216533_HOMAITHANHSANG_DO_AN\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\obj\Debug\QUANLICOFFE.Sigup.resources
+C:\Users\Dang Phuc Khang\Documents\Zalo Received Files\2033216533_HOMAITHANHSANG_DO_AN\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\obj\Debug\QUANLICOFFE.csproj.GenerateResource.cache
+C:\Users\Dang Phuc Khang\Documents\Zalo Received Files\2033216533_HOMAITHANHSANG_DO_AN\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\obj\Debug\QUANLICOFFE.csproj.CoreCompileInputs.cache
+C:\Users\Dang Phuc Khang\Documents\Zalo Received Files\2033216533_HOMAITHANHSANG_DO_AN\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\obj\Debug\QUANLICOFFE.exe
+C:\Users\Dang Phuc Khang\Documents\Zalo Received Files\2033216533_HOMAITHANHSANG_DO_AN\2033216533_HOMAITHANHSANG_DO_AN\Cong_Nghe_Quan_L_iCafe\QUANLICOFFE\obj\Debug\QUANLICOFFE.pdb
